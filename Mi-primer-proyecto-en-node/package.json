@@ -1,0 +1,23 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto en Javascript con node en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebygalla/mi-primer-proyecto-en-node.git"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproyect"
+  ],
+  "author": "Gallardo Sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebygalla/mi-primer-proyecto-en-node/issues"
+  },
+  "homepage": "https://github.com/sebygalla/mi-primer-proyecto-en-node#readme"
+}
